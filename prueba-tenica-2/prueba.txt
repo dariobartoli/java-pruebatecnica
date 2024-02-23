@@ -1,0 +1,8 @@
+Sistema de tickets
+1. crear una plantilla para guardar los siguientes datos de ticker: numero, fila, asiento, fecha de compra, fecha de validez, precio
+2. usar una base de datos logica mediante una estructura de datos que permita almacenar un numero indeterminado de tickets, cargar tickets
+3. crear un metodo que recorra la estructura y devuelva el total de precios
+4. solicitar al usuario que ingrese un numero de fila, y mostrar por pantalla los tickets correspondientes a dicha fila
+
+Extra: Agregar una plantilla para clientes con los datos: id, nro documento, nombre, apellido ¿como se implementaria y relacionaria con los tickets
+para que el mismo posea los datos del cliente asignado? realizar implementacion
